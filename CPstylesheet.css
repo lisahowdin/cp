@@ -1,7 +1,7 @@
 <style>
 @font-face{
   font-family: 'font';
-  src: url('../../cp/Fonts/') format('otf')}
+  src: url('../../cp/Fonts/HelveticaNeueLTStd-Lt.otf') format('otf')}
 
 body{font-family: 'HelveticaNeueLTStd-Lt.otf'; font-size: 100%; margin-left: 15%; margin-right: 15%; line-height: 125%; }
 
