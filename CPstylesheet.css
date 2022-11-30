@@ -1,7 +1,7 @@
 <style>
 @font-face{
   font-family: 'font';
-  src: url('../../cp/Fonts/) format('otf')}
+  src: url('https://lisahowdin.github.io/main/cp/Fonts/) format('otf')}
 
 body{font-family: 'HelveticaNeueLTStd-Lt.otf'; font-size: 100%; margin-left: 15%; margin-right: 15%; line-height: 125%; }
 
@@ -9,7 +9,7 @@ a:link{color: #0000FF;}
 a:active{color: #FF33CC;}
 a:visited{color: #800080;}
 h1{font-family: 'HelveticaNeueLTStd-Lt.otf, Arial; font-size:150%;color: #00008B;}
-h2{font-family: Arial;font-size;:110%;color: black;}
+h2{font-family: Arial;font-size: 110%;color: black;}
 h3{font-family: Arial;font-size: 110%;color: black;}
 
 p{margin-top:0pt;margin-bottom:0pt;}
