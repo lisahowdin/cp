@@ -1,11 +1,11 @@
 <style>
-body{font-size: 100%; margin-left: 15%; margin-right:15%; line-height: 125%; font-family: Arial;}
+body{font-size: 100%; margin-left: 15%; margin-right: 15%; line-height: 125%; font-family: Arial;}
 a:link{color: #0000FF;}
 a:active{color: #FF33CC;}
 a:visited{color: #800080;}
-h1{font-size:145%;margin-bottom:.5em;color: #0000FF;}
-h2{font-size:125%;margin-top:1.5em;margin-bottom:.5em;color: #800080;}
-h3{font-size: 110%;margin-top:1.2em;margin-bottom:.5em;}
+h1{font-family: Arial; font-size:145%;margin-bottom:.5em;color: #0000FF;}
+h2{font-family: Arial;font-size;:125%;margin-top:1.5em;margin-bottom:.5em;color: #800080;}
+h3{font-family: Arial;font-size: 110%;margin-top:1.2em;margin-bottom:.5em;}
 p{margin-top:0pt;margin-bottom:0pt;}
 li p{margin-top:.6em;margin-bottom:0em;}
 big{font-weight:bold;font-size:105%;}
